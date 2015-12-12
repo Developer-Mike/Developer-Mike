@@ -8,7 +8,6 @@
   <img align="right" src="./developer-mike.png" alt="Developer-Mike" width="200" />
 </a>
 
-<!-- Intro  -->
 <h3>
   <samp>
     > Hey!, I am
