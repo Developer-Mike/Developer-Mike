@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">I'm an active developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-mike" alt="developer-mike" /></a> </p>
-
 - 🔭 I’m currently working on [FN Track](https://play.google.com/store/apps/details?id=com.mike.standartstats)
 
 - 🌱 I’m currently learning **Solid JS**
@@ -16,3 +14,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mike&" alt="developer-mike" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=nord" alt="developer-mike" /></a> </p>
