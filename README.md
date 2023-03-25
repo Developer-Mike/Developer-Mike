@@ -16,10 +16,10 @@
 <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,supabase,postgres,md,stackoverflow"/>
 
 <h3>Other Skills:</h3>
-<img src="https://skillicons.dev/icons?i=ktor,java,selenium,flask,solidjs,css,php,visualstudio,sqlite,regex,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=java,php,css,solidjs,flask,regex,raspberrypi,sqlite,visualstudio,selenium,ktor"/>
 
 <h3>Learning Goals:</h3>
-<img src="https://skillicons.dev/icons?i=blender"/>
+<img src="https://skillicons.dev/icons?i=blender,arduino"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-mike&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16" alt="developer-mike" /></p>
 
