@@ -6,7 +6,7 @@
   <img align="middle" src="https://developer-mike-stats.vercel.app/api?username=developer-mike&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
 </div>
 <div float="left" align="middle">
-  <img align="middle" src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=10&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
+  <img align="middle" src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=10&exclude_repo=github-readme-stats,MiniAirport&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
 </div>
 
 <h3>Favourite Skills:</h3>
