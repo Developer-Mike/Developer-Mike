@@ -3,7 +3,10 @@
 <h3 align="center">Currently working on <a href="https://play.google.com/store/apps/details?id=com.mike.standartstats">FN Track</a></h3>
 
 <div float="left" align="middle">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=developer-mike&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
+  <img align="middle" src="https://developer-mike-stats.vercel.app/api?username=developer-mike&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
+</div>
+<div float="left" align="middle">
+  <img align="middle" src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
 </div>
 
 <h3>Favourite Skills:</h3>
@@ -25,8 +28,9 @@
 <img src="https://skillicons.dev/icons?i=blender,arduino"/>
 
 <h2>Stats:</h2>
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-mike&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/></p>
-<p><img align="middle" src="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=tokyonight&no-frame=true&margin-w=15"/></p>
+<div align="middle">
+  <p><img align="middle" src="https://github-profile-trophy.vercel.app/?username=developer-mike&column=3&title=Commits,Repositories,Stars&theme=tokyonight&no-frame=true&margin-w=15"/></p>
+</div>
 
 
 <p><div float="left">
