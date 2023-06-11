@@ -3,6 +3,10 @@
 <h3 align="center">Currently working on <a href="https://play.google.com/store/apps/details?id=com.mike.standartstats">FN Track</a></h3>
 
 <div float="left" align="middle">
+  <img align="middle" src="https://playbadges.pavi2410.me/badge/full?id=com.mike.standartstats"/>
+</div>
+
+<div float="left" align="middle">
   <img align="middle" src="https://developer-mike-stats.vercel.app/api?username=developer-mike&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
 </div>
 <div float="left" align="middle">
