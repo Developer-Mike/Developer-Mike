@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">I'm an active developer.</h3>
-<h3 align="center">Currently working on <a href="https://play.google.com/store/apps/details?id=com.mike.standartstats">FN Track</a></h3>
+<h3 align="center">Currently working on <a href="https://play.google.com/store/apps/details?id=com.mike.standartstats">FN Track</a> and <a href="https://github.com/Developer-Mike/exam-exchange">Exam Exchange</a></h3>
 
 <div float="left" align="middle">
   <img align="middle" src="https://playbadges.pavi2410.me/badge/full?id=com.mike.standartstats"/>
@@ -8,12 +8,10 @@
 
 <div float="left" align="middle">
   <img align="middle" src="https://developer-mike-stats.vercel.app/api?username=developer-mike&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
-</div>
-<div float="left" align="middle">
   <img align="middle" src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=10&exclude_repo=github-readme-stats,MiniAirport&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
 </div>
 
-<h3>Favourite Skills:</h3>
+<h3>The loved ones:</h3>
 <h6>Android App Development</h6>
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/>
 <h6>Websites/PWAs</h6>
@@ -22,14 +20,18 @@
 <img src="https://skillicons.dev/icons?i=py,cpp"/>
 <h6>Game Development</h6>
 <img src="https://skillicons.dev/icons?i=unity,cs"/>
+<h6>Microcontrollers/Microprocessors</h6>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+<h6>Online Services</h6>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,firebase"/>
 <h6>Tools</h6>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,supabase,postgres,md,stackoverflow"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,stackoverflow"/>
 
-<h3>Other Skills:</h3>
-<img src="https://skillicons.dev/icons?i=java,php,css,solidjs,flask,regex,raspberrypi,sqlite,visualstudio,selenium,ktor"/>
-
-<h3>Learning Goals:</h3>
-<img src="https://skillicons.dev/icons?i=blender,arduino"/>
+<h3>The others:</h3>
+<h6>Languages</h6>
+<img src="https://skillicons.dev/icons?i=java,php,regex,md"/>
+<h6>Frameworks</h6>
+<img src="https://skillicons.dev/icons?i=solidjs,flask"/>
 
 <h2>Stats:</h2>
 <div align="middle">
