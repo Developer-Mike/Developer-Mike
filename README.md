@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./developer-mike.png" alt="Developer-Mike" width="300" /><br/>
+  <img src="./developer-mike.png" alt="Developer-Mike" width="200" /><br/>
   I'm Mike.
 </h1>
 <h3 align="center">I am an experienced developer who loves coding. Since 2015, I have acquired experience in numerous programming languages, concepts, and tools. In my free time, I enjoy bouldering.</h3>
