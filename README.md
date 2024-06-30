@@ -12,7 +12,7 @@
 <h3>
   <samp>
     > Hey!, I am
-    <b><a target="_blank" href="https://developer-mike.vercel.com/">Developer-Mike</a></b>
+    <b><a target="_blank" href="https://developer-mike.vercel.app/">Developer-Mike</a></b>
   </samp>
 </h3>
 
