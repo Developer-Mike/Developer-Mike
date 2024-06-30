@@ -1,6 +1,8 @@
-<a href="#">
-  <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Developer-Mike/interval:12_months&label=Yearly%20Coding%20Time&style=for-the-badge&colorA=191f19&colorB=b4d8bb" alt="Yearly Coding Time">
-</a>
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Developer-Mike/interval:12_months&label=Yearly%20Coding%20Time&style=for-the-badge&colorA=191919&colorB=ffffff" alt="Yearly Coding Time">
+  </a>
+</p>
 
 <a href="#">
   <img align="right" src="./developer-mike.png" alt="Developer-Mike" width="200" />
@@ -26,50 +28,56 @@
     </samp>
 </h3>
 
+<h3>
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=vue&no-frame=true&margin-w=15&column=3"/>
+  </a>
+</h3>
+
 ---
 
-<div>
-  <img align="right" src="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=tokyonight&no-frame=true&margin-h=15&column=1"/>
-
-  <a align="left" href="https://github.com/Developer-Mike">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-Mike&theme=tokyonight" alt="Developer-Mike's GitHub Contribution"/>
-  </a>
-
-  <img align="left" src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=10&exclude_repo=github-readme-stats,MiniAirport&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mike&mode=weekly&disable_animations=true&theme=tokyonight&hide_border=true&border_radius=16"/>
-</div>
-
-<h1 align="center">Skills</h1>
 <div align="middle">
   <table border-width="0">
     <tbody>
       <tr>
-        <td align="center" width="50%">
+        <td align="center">
           <h6>Android App Development</h6>
-          <img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/>
+          <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/></a>
         </td>
-        <td align="center" width="50%"> 
+        <td align="center"> 
           <h6>Websites/PWAs</h6>
-          <img src="https://skillicons.dev/icons?i=vercel,nextjs,ts,sass,html"/>
+          <a href="#"><img src="https://skillicons.dev/icons?i=vercel,nextjs,ts,sass"/></a>
         </td>
-      </tr>
-      <tr>
-        <td align="center" width="50%">   
+        <td align="center">   
           <h6>Game Development</h6>
-          <img src="https://skillicons.dev/icons?i=unity,cs"/>
+          <a href="#"><img src="https://skillicons.dev/icons?i=unity,cs"/></a>
         </td>
-        <td align="center" width="50%">   
+        <td align="center">   
           <h6>Cloud Services</h6>
-          <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase"/>
+          <a href="#"><img src="https://skillicons.dev/icons?i=supabase,postgres,firebase"/></a>
         </td>
-      </tr>
-      <tr>
-        <td align="center" colspan="2">
+        <td align="center">
           <h6>Others</h6>
-          <img src="https://skillicons.dev/icons?i=py,cpp,java"/>
+          <a href="#"><img src="https://skillicons.dev/icons?i=py,cpp,java"/></a>
         </td>
       </tr>
     </tbody>
   </table>
+
+---
+
+<div>
+  <a align="center" href="#">
+    <img src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=8&exclude_repo=github-readme-stats,MiniAirport,FN%20Track&locale=en&theme=vue&hide_border=true"/>
+  </a>
+  
+  <a align="center" href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mike&mode=weekly&disable_animations=true&theme=vue&hide_border=true"/>
+  </a>
+  
+  <br/>
+  
+  <a align="center" href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-Mike&theme=vue" alt="Developer-Mike's GitHub Contribution"/>
+  </a>
 </div>
