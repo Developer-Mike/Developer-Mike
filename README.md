@@ -1,10 +1,30 @@
-<h1 align="center">
-  <img src="./developer-mike.png" alt="Developer-Mike" width="200" /><br/>
-  I'm Mike.
-</h1>
-<h3 align="center">I am an experienced developer who loves coding. Since 2015, I have acquired experience in numerous programming languages, concepts, and tools. In my free time, I enjoy bouldering.</h3>
+<a href="#">
+  <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Developer-Mike/interval:12_months&label=Yearly%20Coding%20Time&style=for-the-badge&colorA=191f19&colorB=b4d8bb" alt="Yearly Coding Time">
+</a>
 
-<h3 align="center">Currently working on <a href="https://play.google.com/store/apps/details?id=com.mike.standartstats">FN Track</a> and <a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></h3>
+<a href="#">
+  <img align="right" src="./developer-mike.png" alt="Developer-Mike" width="200" />
+</a>
+
+<!-- Intro  -->
+<h3>
+  <samp>
+    > Hey!, I am
+    <b><a target="_blank" href="https://developer-mike.vercel.com/">Developer-Mike</a></b>
+  </samp>
+</h3>
+
+<h3>
+    <samp>
+      > I am an experienced developer who loves coding. Since 2015, I have acquired experience in numerous programming languages, concepts, and tools. In my free time, I enjoy bouldering.
+    </samp>
+</h3>
+
+<h3>
+    <samp>
+      > Currently working on <b><a href="https://github.com/Developer-Mike/sprout">Sprout</a></b> and <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>
+    </samp>
+</h3>
 
 <h1 align="center">Stats</h1>
 
