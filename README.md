@@ -22,34 +22,23 @@
 
 <h3>
     <samp>
-      > Currently working on <b><a href="https://github.com/Developer-Mike/sprout">Sprout</a></b> and <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>
+      > Currently working on <b><a href="https://github.com/Developer-Mike/sprout">Sprout</a></b>, <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b> and <b><a href="https://play.google.com/store/apps/details?id=com.mike.standartstats">FN Track</a></b>
     </samp>
 </h3>
 
-<h1 align="center">Stats</h1>
+---
 
-<p><div float="left" align="middle">
-  <img align="middle" src="https://playbadges.pavi2410.me/badge/full?id=com.mike.standartstats"/>
-</div></p>
+<div>
+  <img align="right" src="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=tokyonight&no-frame=true&margin-h=15&column=1"/>
 
-<div align="middle">
-  <img align="middle" src="https://github-profile-trophy.vercel.app/?username=developer-mike&column=3&title=Commits,Repositories,Stars&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <a align="left" href="https://github.com/Developer-Mike">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-Mike&theme=tokyonight" alt="Developer-Mike's GitHub Contribution"/>
+  </a>
+
+  <img align="left" src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=10&exclude_repo=github-readme-stats,MiniAirport&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mike&mode=weekly&disable_animations=true&theme=tokyonight&hide_border=true&border_radius=16"/>
 </div>
-
-<p><div float="left" align="middle">
-  <img align="middle" src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=10&exclude_repo=github-readme-stats,MiniAirport&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
-</div></p>
-
-<details align="middle">
-  <summary>More</summary>
-  <div float="left" align="middle">
-    <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mike&mode=weekly&disable_animations=true&theme=tokyonight&hide_border=true&border_radius=16"/>
-  </div>
-
-  <p><div float="left" align="middle">
-    <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mike&disable_animations=true&theme=tokyonight&hide_border=true&border_radius=16"/>
-  </div></p>
-</details>
 
 <h1 align="center">Skills</h1>
 <div align="middle">
