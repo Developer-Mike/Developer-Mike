@@ -5,13 +5,13 @@
 </p>
 
 <a href="#">
-  <img align="right" src="./developer-mike.png" alt="Developer-Mike" width="200" />
+  <img align="right" src="./developer-mike.png" alt="mika.dev" width="200" />
 </a>
 
 <h3>
   <samp>
     > Hey!, I am
-    <b><a target="_blank" href="https://portfolio.by-mika.dev/">Developer-Mike</a></b>
+    <b><a target="_blank" href="https://portfolio.by-mika.dev/">mika.dev</a></b>
   </samp>
 </h3>
 
