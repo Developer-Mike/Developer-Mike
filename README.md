@@ -67,7 +67,7 @@
 
 <div>
   <a align="center" href="#">
-    <img src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=8&exclude_repo=github-readme-stats,MiniAirport,FN%20Track&locale=en&theme=vue&hide_border=true"/>
+    <img src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=8&exclude_repo=github-readme-stats,MiniAirport,FN%20Track&hide=markdown&locale=en&theme=vue&hide_border=true"/>
   </a>
   
   <a align="center" href="#">
