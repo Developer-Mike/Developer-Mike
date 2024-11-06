@@ -67,10 +67,4 @@
   <a align="center" href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mike&mode=weekly&disable_animations=true&theme=vue&hide_border=true"/>
   </a>
-  
-  <br/>
-  
-  <a align="center" href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Developer-Mike&theme=vue" alt="Developer-Mike's GitHub Contribution"/>
-  </a>
 </div>
