@@ -1,9 +1,3 @@
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Developer-Mike/interval:12_months&label=Yearly%20Coding%20Time&style=for-the-badge&colorA=191919&colorB=ffffff" alt="Yearly Coding Time">
-  </a>
-</p>
-
 <a href="#">
   <img align="right" src="./developer-mike.png" alt="mika.dev" width="200" />
 </a>
