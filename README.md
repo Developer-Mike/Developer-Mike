@@ -67,10 +67,12 @@
 
 <div>
   <a align="center" href="#">
-    <img src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=8&exclude_repo=github-readme-stats,MiniAirport,FN-Track&hide=markdown&locale=en&theme=vue&hide_border=true"/>
+    <img src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=8&exclude_repo=wakapi,github-readme-stats,FN-Track&hide=markdown&locale=en&theme=vue&hide_border=true"/>
   </a>
   
   <a align="center" href="#">
     <img src="https://streak-stats.demolab.com?user=developer-mike&mode=weekly&disable_animations=true&theme=vue&hide_border=true"/>
   </a>
 </div>
+
+![](https://komarev.com/ghpvc/?username=Developer-Mike&style=pixel)
