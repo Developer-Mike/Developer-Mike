@@ -17,7 +17,7 @@
 
 <h3>
     <samp>
-      > Currently working on <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>
+      > Currently working on <b>Starlight PDF</b> and <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>
     </samp>
 </h3>
 
