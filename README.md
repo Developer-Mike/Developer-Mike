@@ -28,7 +28,7 @@
 </h3>
 
 <h3>
-  <a href="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=vue&no-frame=true&margin-w=15&column=3">
+  <a href="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=vue&no-frame=true&margin-w=15&column=3" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=vue&no-frame=true&margin-w=15&column=3"/>
   </a>
 </h3>
@@ -75,8 +75,6 @@
   </a>
 </div>
 
-<a align="center" href="https://komarev.com/ghpvc/?username=Developer-Mike&style=for-the-badge">
+<a align="center" href="https://komarev.com/ghpvc/?username=Developer-Mike&style=for-the-badge" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=Developer-Mike&style=pixel"/>
 </a>
-  
-![](https://komarev.com/ghpvc/?username=Developer-Mike&style=pixel)
