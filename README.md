@@ -28,7 +28,7 @@
 </h3>
 
 <h3>
-  <a href="#">
+  <a href="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=vue&no-frame=true&margin-w=15&column=3">
     <img src="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=vue&no-frame=true&margin-w=15&column=3"/>
   </a>
 </h3>
@@ -67,11 +67,11 @@
 
 <div>
   <a align="center" href="#">
-    <img src="https://developer-mike-stats.vercel.app/api/top-langs?username=developer-mike&layout=compact&langs_count=8&exclude_repo=wakapi,github-readme-stats,FN-Track&hide=markdown&locale=en&theme=vue&hide_border=true"/>
+    <img src="https://raw.githubusercontent.com/Developer-Mike/github-stats/refs/heads/master/generated/overview.svg"/>
   </a>
   
   <a align="center" href="#">
-    <img src="https://streak-stats.demolab.com?user=developer-mike&mode=weekly&disable_animations=true&theme=vue&hide_border=true"/>
+    <img src="https://raw.githubusercontent.com/Developer-Mike/github-stats/refs/heads/master/generated/languages.svg"/>
   </a>
 </div>
 
