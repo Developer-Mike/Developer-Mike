@@ -75,4 +75,8 @@
   </a>
 </div>
 
+<a align="center" href="https://komarev.com/ghpvc/?username=Developer-Mike&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Developer-Mike&style=pixel"/>
+</a>
+  
 ![](https://komarev.com/ghpvc/?username=Developer-Mike&style=pixel)
