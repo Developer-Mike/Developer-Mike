@@ -17,13 +17,13 @@
 
 <h3>
     <samp>
-      > Currently working on <b>Starlight PDF</b> and <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>
+      > Currently working on <b><a href="https://starlight.by-mika.dev/">Starlight PDF</a></b> and <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>
     </samp>
 </h3>
 
 <h3>
     <samp>
-      > Check out my <b><a href="https://portfolio.by-mika.dev/">portfolio</a></b> or my other projects, such as <b><a href="https://github.com/Developer-Mike/sprout">Sprout</a></b>, <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>, and <b><a href="https://play.google.com/store/apps/details?id=com.mike.standartstats">FN Track</a></b>.
+      > Check out my <b><a href="https://portfolio.by-mika.dev/">portfolio</a></b> or my other projects, such as <b><a href="https://starlight.by-mika.dev/">Starlight PDF</a></b>, <b><a href="https://github.com/Developer-Mike/sprout">Sprout</a></b>, <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>, and <b><a href="https://play.google.com/store/apps/details?id=com.mike.standartstats">FN Track</a></b>.
     </samp>
 </h3>
 
