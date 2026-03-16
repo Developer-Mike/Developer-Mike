@@ -43,10 +43,6 @@
   <a align="center" href="#">
     <img width="400" src="https://raw.githubusercontent.com/Developer-Mike/github-stats/refs/heads/master/generated/languages.svg"/>
   </a>
-
-  <a align="center" href="#">
-    <img width="800" src="https://raw.githubusercontent.com/Developer-Mike/portfolio-stats/refs/heads/main/stats/download-chart.svg"/>
-  </a>
 </div>
 
 <a align="center" href="https://komarev.com/ghpvc/?username=Developer-Mike&style=for-the-badge" target="_blank">
