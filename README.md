@@ -29,49 +29,23 @@
 
 <h3>
   <a href="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=vue&no-frame=true&margin-w=15&column=3" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=vue&no-frame=true&margin-w=15&column=3"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=developer-mike&rank=-C,-B,-A,-AA&theme=vue&no-frame=true&margin-w=15"/>
   </a>
 </h3>
 
 ---
 
-<div align="middle">
-  <table border-width="0">
-    <tbody>
-      <tr>
-        <td align="center">
-          <h6>Android App Development</h6>
-          <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/></a>
-        </td>
-        <td align="center"> 
-          <h6>Websites/PWAs</h6>
-          <a href="#"><img src="https://skillicons.dev/icons?i=vercel,nextjs,ts,sass"/></a>
-        </td>
-        <td align="center">   
-          <h6>Game Development</h6>
-          <a href="#"><img src="https://skillicons.dev/icons?i=unity,cs"/></a>
-        </td>
-        <td align="center">   
-          <h6>Cloud Services</h6>
-          <a href="#"><img src="https://skillicons.dev/icons?i=supabase,postgres,firebase"/></a>
-        </td>
-        <td align="center">
-          <h6>Others</h6>
-          <a href="#"><img src="https://skillicons.dev/icons?i=py,cpp,java"/></a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
----
-
 <div>
   <a align="center" href="#">
-    <img src="https://raw.githubusercontent.com/Developer-Mike/github-stats/refs/heads/master/generated/overview.svg"/>
+    <img width="400" src="https://raw.githubusercontent.com/Developer-Mike/github-stats/refs/heads/master/generated/overview.svg"/>
   </a>
   
   <a align="center" href="#">
-    <img src="https://raw.githubusercontent.com/Developer-Mike/github-stats/refs/heads/master/generated/languages.svg"/>
+    <img width="400" src="https://raw.githubusercontent.com/Developer-Mike/github-stats/refs/heads/master/generated/languages.svg"/>
+  </a>
+
+  <a align="center" href="#">
+    <img width="800" src="https://raw.githubusercontent.com/Developer-Mike/portfolio-stats/refs/heads/main/stats/download-chart.svg"/>
   </a>
 </div>
 
