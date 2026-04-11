@@ -45,6 +45,12 @@
   </a>
 </div>
 
+<div>  
+  <a align="center" href="#">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mike&mode=weekly&disable_animations=true&theme=vue&hide_border=true&border_radius=16"/>
+  </a>
+</div>
+
 <a align="center" href="https://komarev.com/ghpvc/?username=Developer-Mike&style=for-the-badge" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=Developer-Mike&style=pixel"/>
 </a>
