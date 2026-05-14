@@ -17,7 +17,7 @@
 
 <h3>
     <samp>
-      > Currently working on <b>improving my ML skills (<a href="https://github.com/Developer-Mike/bitsoil">bitsoil</a>, <a href="https://github.com/Developer-Mike/tinybase">tinybase</a>)</b>, <b><a href="https://github.com/Developer-Mike/histori">Histori</a></b>, <b><a href="https://starlight.by-mika.dev/">Starlight PDF</a></b> and <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>
+      > Currently working on <b>improving my ML skills (<a href="https://github.com/Developer-Mike/bitsoil">bitsoil</a></b>), <b><a href="https://github.com/Developer-Mike/histori">Histori</a></b>, <b><a href="https://starlight.by-mika.dev/">Starlight PDF</a></b> and <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>
     </samp>
 </h3>
 
