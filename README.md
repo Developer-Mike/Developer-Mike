@@ -17,39 +17,22 @@
 
 <h3>
     <samp>
-      > Currently working on <b>my homelab</b>, <b><a href="https://starlight.by-mika.dev/">Starlight PDF</a></b> and <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b>
+      > You want to see some of my projects?<br/>
+      &nbsp;- Most Proud Of: <b><a href="https://starlight.by-mika.dev/">Starlight PDF</a></b><br/>
+      &nbsp;- Most Popular: <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b><br/>
+      &nbsp;- My First Big Project: <b><a href="https://github.com/Developer-Mike/fn-track">FN Track</a></b><br/>
+      &nbsp;- A Transpiler: <b><a href="https://github.com/Developer-Mike/sprout">Sprout</a></b><br/>
+      &nbsp;- <b><a href="https://portfolio.by-mika.dev/">see more...</a></b>
     </samp>
-</h3>
-
-<h3>
-    <samp>
-      > Check out my <b><a href="https://portfolio.by-mika.dev/">portfolio</a></b> or my other projects, such as <b><a href="https://github.com/Developer-Mike/sprout">Sprout</a></b> and <b><a href="https://github.com/Developer-Mike/fn-track">FN Track</a></b>.
-    </samp>
-</h3>
-
-<h3>
-  <a href="https://github-profile-trophy.vercel.app/?username=developer-mike&title=Commits,Repositories,Stars&theme=vue&no-frame=true&margin-w=15&column=3" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=developer-mike&rank=-C,-B,-A,-AA&theme=vue&no-frame=true&margin-w=15"/>
-  </a>
 </h3>
 
 ---
 
-<div>
-  <a align="center" href="#">
-    <img width="400" src="https://raw.githubusercontent.com/Developer-Mike/github-stats/refs/heads/master/generated/overview.svg"/>
-  </a>
-  
-  <a align="center" href="#">
-    <img width="400" src="https://raw.githubusercontent.com/Developer-Mike/github-stats/refs/heads/master/generated/languages.svg"/>
-  </a>
-</div>
-
-<div>  
-  <a align="center" href="#">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mike&mode=weekly&disable_animations=true&theme=vue&hide_border=true&border_radius=16"/>
-  </a>
-</div>
+<h3>
+    <samp>
+      > If you like visualized data, you'll enjoy my <b><a href="https://github.com/Developer-Mike/portfolio-stats">portfolio-stats repo</a></b>.
+    </samp>
+</h3>
 
 <a align="center" href="https://komarev.com/ghpvc/?username=Developer-Mike&style=for-the-badge" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=Developer-Mike&style=pixel"/>
