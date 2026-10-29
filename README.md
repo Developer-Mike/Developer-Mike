@@ -18,9 +18,9 @@
 <h3>
     <samp>
       > You want to see some of my projects?<br/>
-      &nbsp;- Most Proud Of: <b><a href="https://starlight.by-mika.dev/">Starlight PDF</a></b><br/>
+      &nbsp;- Biggest Project Yet: <b><a href="https://starlight.by-mika.dev/">Starlight PDF</a></b><br/>
       &nbsp;- Most Popular: <b><a href="https://github.com/Developer-Mike/obsidian-advanced-canvas">Advanced Canvas</a></b><br/>
-      &nbsp;- My First Big Project: <b><a href="https://github.com/Developer-Mike/fn-track">FN Track</a></b><br/>
+      &nbsp;- First Big Project: <b><a href="https://github.com/Developer-Mike/fn-track">FN Track</a></b><br/>
       &nbsp;- A Transpiler: <b><a href="https://github.com/Developer-Mike/sprout">Sprout</a></b><br/>
       &nbsp;- <b><a href="https://portfolio.by-mika.dev/">see more...</a></b>
     </samp>
